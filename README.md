@@ -1,6 +1,6 @@
 # Hi everyone! 
 
-**My name is Fandi Meylwan Hasnur**
+### My name is **Fandi Meylwan Hasnur**
 
 I'm a *Frontend Web Developer*
 
