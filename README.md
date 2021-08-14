@@ -1,4 +1,4 @@
-# Hy everyone! 
+# Hi everyone! 
 
 **My name is Fandi Meylwan Hasnur**
 
