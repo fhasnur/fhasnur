@@ -2,7 +2,7 @@
 
 **My name is Fandi Meylwan Hasnur**
 
-I'am a *Frontend Web Developer*
+I'm a *Frontend Web Developer*
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
