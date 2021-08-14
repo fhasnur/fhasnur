@@ -1,6 +1,6 @@
 ## Hi everyone! 👋 I'm Fandi. 
 
-I'm a *Frontend Web Developer* and Web Enthusiast
+I'm a *Frontend Web Developer* and *Web Enthusiast*
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
