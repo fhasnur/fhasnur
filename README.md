@@ -1,6 +1,4 @@
-# Hi everyone! 
-
-### My name is **Fandi Meylwan Hasnur**
+## Hi everyone! 👋 I'm Fandi. 
 
 I'm a *Frontend Web Developer*
 
