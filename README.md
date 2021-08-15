@@ -1,6 +1,6 @@
 ## Hi everyone! 👋 I'm Fandi. 
 
-I'm a *Frontend Web Developer*, *Web Enthusiast*, and enjoyed developing websites using  *Javascript*.
+I'm a *Frontend Web Developer*, *Web Enthusiast*. I enjoyed developing websites using  *Javascript*.
 
 - 🌱 I’m currently learning about web development
 - ⚡ Fun fact: like something new, especially about technology
