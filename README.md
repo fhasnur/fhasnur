@@ -20,7 +20,7 @@ I'm a *Frontend Web Developer* and *Web Enthusiast*. I enjoyed developing websit
 </a>
 </p>
 
-### Reach Me On
+### Reach Me on
 
 [![Linkedin Badge](https://img.shields.io/badge/-fandihasnur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Instagram Badge](https://img.shields.io/badge/-fhasnur_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fhasnur_/)](https://www.instagram.com/fhasnur_/)
