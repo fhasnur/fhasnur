@@ -1,6 +1,9 @@
 ## Hi everyone! 👋 I'm Fandi. 
 
-I'm a *Frontend Web Developer* and *Web Enthusiast*
+I'm a *Frontend Web Developer*, *Web Enthusiast*, and enjoyed developing websites using  *Javascript*.
+
+- 🌱 I’m currently learning about web development
+- ⚡ Fun fact: Like something new, especially about technology
 
 ### Tech Stack
   <a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" width="20px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" /></a>
