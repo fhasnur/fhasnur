@@ -20,9 +20,6 @@ I'm a *Frontend Web Developer* and *Web Enthusiast*. I enjoyed developing websit
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhasnur&layout=compact)](https://github.com/fhasnur/github-readme-stats&theme=midnight-purple&include_all_commits=true&count_private=true")
-
-
 ### Reach Me on
 
 [![Linkedin Badge](https://img.shields.io/badge/-fandihasnur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
