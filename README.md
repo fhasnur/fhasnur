@@ -20,6 +20,7 @@ I'm a *Frontend Web Developer* and *Web Enthusiast*. I enjoyed developing websit
 </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhasnur&layout=compact)](https://github.com/fhasnur/github-readme-stats&theme=midnight-purple&include_all_commits=true&count_private=true")
 
 
 ### Reach Me on
