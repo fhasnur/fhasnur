@@ -1,6 +1,6 @@
 ## Hi everyone! 👋 I'm Fandi. 
 
-I'm a *Frontend Web Developer*, *Web Enthusiast*. I enjoyed developing websites using  *Javascript*.
+I'm a *Frontend Web Developer* and *Web Enthusiast*. I enjoyed developing websites using  *Javascript*.
 
 - 🌱 I’m currently learning about web development
 - ⚡ Fun fact: like something new, especially about technology
@@ -15,8 +15,8 @@ I'm a *Frontend Web Developer*, *Web Enthusiast*. I enjoyed developing websites 
 
 <p align="left">
 <a href="https://github.com/fhasnur">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fhasnur&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fhasnur&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fhasnur&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fhasnur&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
