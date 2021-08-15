@@ -19,7 +19,8 @@ I'm a *Frontend Web Developer* and *Web Enthusiast*. I enjoyed developing websit
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fhasnur&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhasnur&hide=TeX&layout=compact)
+
+
 
 ### Reach Me on
 
