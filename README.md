@@ -22,5 +22,5 @@ I'm a *Frontend Web Developer*, *Web Enthusiast*. I enjoyed developing websites 
 
 ### Reach Me On
 
-[![Linkedin Badge](https://img.shields.io/badge/-fandimeylwanhasnur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-fandihasnur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Instagram Badge](https://img.shields.io/badge/-fhasnur_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fhasnur_/)](https://www.instagram.com/fhasnur_/)
