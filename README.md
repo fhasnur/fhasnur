@@ -15,8 +15,8 @@ I'm a *Frontend Web Developer* and *Web Enthusiast*. I enjoyed developing websit
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/fhasnur">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fhasnur&layout=compact&langs_count=8&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fhasnur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fhasnur&layout=compact&langs_count=8&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fhasnur&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
