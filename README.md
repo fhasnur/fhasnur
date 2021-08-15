@@ -12,7 +12,7 @@ I'm a *Frontend Web Developer* and *Web Enthusiast*. I enjoyed developing websit
   <a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" title="VSCode" width="20px" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" /></a>
   <br><br>
   
-
+### Github Statistics
 <p align="left">
 <a href="https://github.com/fhasnur">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fhasnur&layout=compact&langs_count=8&theme=midnight-purple"/>
