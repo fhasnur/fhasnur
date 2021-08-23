@@ -2,8 +2,8 @@
 
 I'm a *Frontend Web Developer* and *Web Enthusiast*. I enjoyed developing websites using  *Javascript*.
 
-- 🌱 I’m currently learning about web development and fuzzy genetic algorithms
-- ⚡ Fun fact: like something new, especially about technology
+- 🌱 I’m currently learning about *web development* and *fuzzy genetic algorithms*
+- ⚡ Fun fact: like something new, especially about *technology*
 
 ### Tech Stack
   <a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" width="21px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" /></a>
