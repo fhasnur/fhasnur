@@ -2,7 +2,7 @@
 
 I'm a *Web Enthusiast*. I enjoyed developing websites using  *Javascript*.
 
-- 🌱 I’m currently learning about *web development* and *fuzzy genetic algorithms*
+- 🌱 I’m currently learning about *fullstack web development* and *fuzzy genetic algorithms*
 - ⚡ Fun fact: like something new, especially about *technology*
 
 ### Tech Stack
