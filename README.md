@@ -1,6 +1,6 @@
 ## Hi everyone! 👋 I'm Fandi. 
 
-I'm a *Web Enthusiast*. I enjoyed developing websites using  *Javascript*. I like *Coding* and *Design*.
+I'm a *Web Enthusiast*. I enjoyed developing websites using  *Javascript*. I like Coding and Design.
 
 - 🌱 I’m currently learning about *fullstack web development*, *fuzzy genetic algorithms* and everything 😅
 - ⚡ Fun fact: like something new, especially about *technology*
