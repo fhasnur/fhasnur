@@ -15,8 +15,8 @@ I'm a *Web Enthusiast*. I enjoyed developing websites using  *Javascript*. I lik
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/fhasnur">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fhasnur&layout=compact&langs_count=8&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fhasnur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fhasnur&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fhasnur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
