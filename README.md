@@ -4,10 +4,10 @@
 - 🚀 I'm a *web enthusiast* and enjoyed developing websites using  *javascript*. 
 - 🌱 I’m currently learning about *fullstack web development*, 
 *artificial intelligence* and everything 😅
-- ⚡ Fun fact: like something new, especially about *technology* and like to learn visual type
+- ⚡ Fun fact: like something new, especially about *technology* and very enthusiastic to learn it
 - ❤ I love coding and design
 
-### 🛠 Languages and Tools 
+### Languages and Tools 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
