@@ -33,8 +33,8 @@
   
 ### Github Statistics
 <p align=left>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fhasnur&show_icons=true&hide_border=true&theme=algolia" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=algolia" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=fhasnur&show_icons=true&hide_border=true&theme=algolia" />
+  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=algolia" />
 </p>
 
 
