@@ -1,11 +1,11 @@
 ## Hi there! 👋
 <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-I'm a *web enthusiast*. I enjoyed developing websites using  *javascript*. I love coding and design
-
+- 🚀 I'm a *web enthusiast* and enjoyed developing websites using  *javascript*. 
 - 🌱 I’m currently learning about *fullstack web development*, 
 *artificial intelligence* and everything 😅
 - ⚡ Fun fact: like something new, especially about *technology*
+- 👩‍💻 I love coding and design
 
 ### Tech Stack
   <a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" width="21px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" /></a>
