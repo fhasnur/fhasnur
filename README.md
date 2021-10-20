@@ -1,7 +1,7 @@
 ## Hi there! 👋
 <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-I'm a *tech enthusiast* especially about *web development*. I enjoyed developing websites using  *javascript*. I love coding and design
+I'm a *web enthusiast*. I enjoyed developing websites using  *javascript*. I love coding and design
 
 - 🌱 I’m currently learning about *fullstack web development*, 
 *cloud computing* and everything 😅
