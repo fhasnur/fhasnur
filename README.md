@@ -16,10 +16,8 @@ I'm a *web enthusiast*. I enjoyed developing websites using  *javascript*. I lik
   
 ### Github Statistics
 <p align=left>
-<!--   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fhasnur&layout=compact&langs_count=8&theme=dark"/>
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fhasnur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fhasnur&show_icons=true&hide_border=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fhasnur&show_icons=true&hide_border=true&theme=algolia" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=algolia" />
 </p>
 
 
