@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning about *fullstack web development*, 
 *artificial intelligence* and everything 😅
 - ⚡ Fun fact: like something new, especially about *technology* and very enthusiastic to learn it
-- ❤ I love coding and design
-
+<!-- - ❤ I love coding and design
+ -->
 ### Languages and Tools 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
