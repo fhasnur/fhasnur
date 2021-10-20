@@ -1,7 +1,7 @@
 ## Hi there! 👋
 <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-I'm a *web enthusiast*. I enjoyed developing websites using  *javascript*. I like coding and design.
+I'm a *tech enthusiast* especially about *web development*. I enjoyed developing websites using  *javascript*. I love coding and design
 
 - 🌱 I’m currently learning about *fullstack web development*, 
 *cloud computing* and everything 😅
@@ -16,16 +16,13 @@ I'm a *web enthusiast*. I enjoyed developing websites using  *javascript*. I lik
   
 ### Github Statistics
 <p align=left>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=fhasnur&show_icons=true&hide_border=true&theme=algolia" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=algolia" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=fhasnur&show_icons=true&hide_border=true&theme=algolia" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=algolia" />
 </p>
 
 
 ### Reach Me on
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fandi-meylwan-hasnur-013495185//)](https://www.linkedin.com/in/fandi-meylwan-hasnur-013495185/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fandi-meylwan-hasnur-013495185//)](https://www.linkedin.com/in/fandi-meylwan-hasnur-013495185/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fhasnur_/)](https://www.instagram.com/fhasnur_/)
-
-<p align="left">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/fhasnur_/)](https://twitter.com/fhasnur_/)
