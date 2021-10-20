@@ -1,4 +1,4 @@
-## Hi everyone! 👋 I'm Fandi. 
+## Hi there! 👋
 <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 I'm a *web enthusiast*. I enjoyed developing websites using  *javascript*. I like coding and design.
@@ -15,12 +15,13 @@ I'm a *web enthusiast*. I enjoyed developing websites using  *javascript*. I lik
   <br><br>
   
 ### Github Statistics
-<p align="left">
-<a href="https://github.com/fhasnur">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fhasnur&layout=compact&langs_count=8&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fhasnur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
+<p align=left>
+<!--   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fhasnur&layout=compact&langs_count=8&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fhasnur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fhasnur&show_icons=true&hide_border=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=dark" />
 </p>
+
 
 ### Reach Me on
 
