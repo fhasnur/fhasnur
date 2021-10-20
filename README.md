@@ -8,7 +8,7 @@
 <!-- - ❤ I love coding and design
  -->
  
-<!-- ### Languages and Tools 
+### Languages and Tools 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -21,7 +21,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-%23F05040?style=flat-square&logo=jupyter&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) -->
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 
 <!-- ### Tech Stack
   <a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" width="21px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" /></a>
