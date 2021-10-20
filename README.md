@@ -4,7 +4,7 @@
 I'm a *web enthusiast*. I enjoyed developing websites using  *javascript*. I love coding and design
 
 - 🌱 I’m currently learning about *fullstack web development*, 
-*cloud computing* and everything 😅
+*artificial intelligence* and everything 😅
 - ⚡ Fun fact: like something new, especially about *technology*
 
 ### Tech Stack
