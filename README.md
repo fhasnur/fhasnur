@@ -35,9 +35,6 @@
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=algolia" />
 </p>
 
-### Hacktoberfest Contributions
-[![@fhasnur's Holopin board](https://holopin.me/fhasnur)](https://holopin.io/@fhasnur)
-
 ### Reach Me on
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fandi-meylwan-hasnur-013495185//)](https://www.linkedin.com/in/fhasnur/)
