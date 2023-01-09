@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Fandi
 <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-- 🚀 I'm a *web enthusiast* and enjoyed developing websites using  *javascript*. 
+- 🚀 I'm a *tech enthusiast* especially about *web development* and enjoyed developing websites using  *javascript*. 
 - 🌱 Currently learning about *back-end web development* and everything 😅
 - ⚡ Fun fact: like something new, especially about *technologies* and very enthusiastic to learn it
 <!-- - ❤ I love coding and design
