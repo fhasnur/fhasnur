@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 - 🚀 I'm a *tech enthusiast* especially about *web development* and enjoyed developing websites using  *javascript*. 
-- 🌱 Currently learning about *full-stack web development, java* and everything 😅
+- 🌱 Currently learning about *full-stack web development* and everything 😅
 - ⚡ Fun fact: like something new, especially about *technologies* and very enthusiastic to learn it
 <!-- - ❤ I love coding and design
  -->
