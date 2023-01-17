@@ -36,6 +36,7 @@
 
 ### Reach Me on
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fandi-meylwan-hasnur-013495185//)](https://www.linkedin.com/in/fhasnur/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fandi-meylwan-hasnur-013495185//)](https://www.linkedin.com/in/fhasnur/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fhasnur_/)](https://www.instagram.com/fandihasnur/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/fhasnur_/)](https://twitter.com/fhasnur_/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack_Overflow-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13453481/fandi-hasnur)](https://stackoverflow.com/users/13453481/fandi-hasnur/)
