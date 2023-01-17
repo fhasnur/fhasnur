@@ -37,5 +37,5 @@
 ### Reach Me on
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fandi-meylwan-hasnur-013495185//)](https://www.linkedin.com/in/fhasnur/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fhasnur_/)](https://www.instagram.com/fhasnur_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fhasnur_/)](https://www.instagram.com/fandihasnur/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/fhasnur_/)](https://twitter.com/fhasnur_/)
