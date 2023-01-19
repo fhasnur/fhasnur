@@ -4,7 +4,7 @@
 - 🚀 I'm a *web development* and enjoyed developing websites using *javascript*
 - 🌱 Currently learning about *node.js*, *back-end web development* and everything 😅
 - ⚡ Fun fact: like to learn new things, especially about *technologies*
-- ❤️ I love designing and implementing it to a *website platform*
+- ❤️ I love designing and implementing it to *visual design* and *website platform*
 
  
 ### Languages and Tools 
