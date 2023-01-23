@@ -1,13 +1,13 @@
 ## Hi there! 👋 I'm Fandi
 <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-- 🚀 I'm a *website enthusiast* and enjoyed developing *websites* using *javascript*
-- 🌱 Currently learning about *DevOps*, *Back-End Web Development* and everything 😅
-- ⚡ Fun fact: like to learn new things, especially about *technologies*
-- ❤️ I love designing and implementing it to *visual design* and *website platform*
+- 🚀 I'm a **website enthusiast** and enjoyed developing websites using **javascript**
+- 🌱 Currently learning about **DevOps**, **node-js**, **back-end web development** and everything 😅
+- ⚡ Fun fact: like to learn new things, especially about **technologies**
+- ❤️ I love designing and implementing it to **visual design** and **website platform**
 
  
-### Languages and Tools 
+### Tech Stack and Tools 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -26,7 +26,7 @@
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" title="VSCode" width="21px" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" /></a>
-  <br><br> -->
+  <br><br>  -->
   
 ### Github Statistics
 <p align=left>
