@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 - 🚀 I'm a **website enthusiast** and enjoyed developing websites using **javascript**
-- 🌱 Currently learning about **Back-End development**, **DevOps**, **NodeJS**,**Java** and everything 😅
+- 🌱 Currently learning about **Back-End development**, **DevOps**, **NodeJS**, **Java** and everything 😅
 - ⚡ Fun fact: like to learn new things, especially about **technologies**
 - ❤️ I love designing and implementing it to **visual design** and **website platform**
 
