@@ -1,6 +1,5 @@
 ## Hi there! 👋 I'm Fandi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fhasnur&label=Profile%20views&color=0e75b6&style=flat" alt="khairanabila" /> </p>
 <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 - 🚀 I'm a **website enthusiast** and enjoyed developing websites using **Javascript**
