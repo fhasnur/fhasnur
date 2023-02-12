@@ -1,6 +1,5 @@
 ## Hi there! 👋 I'm Fandi
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 <!-- <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"> -->
 
 - 🚀 I'm a **website enthusiast** and enjoyed developing websites using **javascript**
