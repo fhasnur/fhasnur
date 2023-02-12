@@ -22,18 +22,14 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
 
-<!-- ### Tech Stack
-  <a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" width="21px" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" /></a>
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" title="VSCode" width="21px" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" /></a>
-  <br><br>  -->
-  
 ### Github Statistics
 <p align=left>
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=fhasnur&show_icons=true&hide_border=true&theme=algolia" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=algolia" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Reach Me on
 
