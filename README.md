@@ -1,6 +1,7 @@
 ## Hi there! 👋 I'm Fandi
 
-<img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+<!-- <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"> -->
 
 - 🚀 I'm a **website enthusiast** and enjoyed developing websites using **javascript**
 - 🌱 Currently learning about **back-end web development** and everything 😅
@@ -8,7 +9,7 @@
 - ❤️ I love designing and implementing it to **visual design** and **website platform**
 
  
-### Tech Stack and Tools 
+<!-- ### Tech Stack and Tools 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -20,17 +21,15 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-%23F05040?style=flat-square&logo=jupyter&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000) -->
 
-### Github Statistics
+<!-- ### Github Statistics
 <p align=left>
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=fhasnur&show_icons=true&hide_border=true&theme=algolia" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=algolia" />
-</p>
+</p> -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
-
 **I'm a Night 🦉** 
 
 ```text
