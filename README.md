@@ -29,8 +29,8 @@
 </p> -->
 
 
-<img align="left" width="490" alt="🦑" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/general.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
-<img align="right" width="470" alt="🦑" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/statistics.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/general.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/statistics.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
