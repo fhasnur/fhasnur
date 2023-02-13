@@ -28,8 +28,9 @@
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=fhasnur&hide_border=true&theme=algolia" />
 </p> -->
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/fhasnur/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/fhasnur/3c6eaedf50273adfb7a510822672f570/raw/statistics.svg">](#)
+<!-- <img src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"> -->
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/general.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/statistics.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">](#)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
