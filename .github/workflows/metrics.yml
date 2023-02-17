@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: 🦑 General
+      - name: General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -23,7 +23,7 @@ jobs:
           plugin_isocalendar: yes
   
           
-      - name: 🦑 Statistics
+      - name: Statistics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -40,7 +40,7 @@ jobs:
           plugin_notable: yes
           plugin_activity: yes
           plugin_activity_days: 30
-          plugin_activity_filter: all
+          plugin_activity_filter: push, pr, fork, comment, review, issue, ref/create, ref/delete, release, star, public, member
           plugin_activity_limit: 2
           plugin_activity_load: 300
           plugin_activity_visibility: all
