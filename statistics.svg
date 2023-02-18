@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.82mb of code in 219 edited files across 82 commits</small>
+                <small>estimation from 2.82mb of code in 220 edited files across 83 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -123,7 +123,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bf679a9</div>
+                                        <div class="sha">#bf58b11</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -137,14 +137,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">fhasnur/fhasnur</span>
+                                        <span class="repo">fhasnur/favshop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b1d69a3</div>
-                                        <div class="message">Update metrics.yml</div>
+                                        <div class="sha">#3f30efd</div>
+                                        <div class="message">delete Cart on App</div>
                                     </div>
                                 </div>
                             </section>
