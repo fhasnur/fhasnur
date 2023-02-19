@@ -123,7 +123,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bf58b11</div>
+                                        <div class="sha">#00a56c7</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -137,14 +137,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">fhasnur/favshop</span>
+                                        <span class="repo">fhasnur/contact-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3f30efd</div>
-                                        <div class="message">delete Cart on App</div>
+                                        <div class="sha">#bdb06d0</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
