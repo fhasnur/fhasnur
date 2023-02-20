@@ -123,8 +123,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#00a56c7</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#15e24ef</div>
+                                        <div class="message">Update waka.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -137,14 +137,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">fhasnur/contact-app</span>
+                                        <span class="repo">fhasnur/fhasnur</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bdb06d0</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#00a56c7</div>
+                                        <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
                             </section>
