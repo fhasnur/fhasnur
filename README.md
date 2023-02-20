@@ -35,8 +35,18 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+**🐱 My GitHub Data** 
 
+> 🏆 127 Contributions in the Year 2023
+ > 
+> 📦 67.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
 **I'm a Night 🦉** 
 
 ```text
@@ -49,9 +59,9 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday          86 commits       ████░░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Monday          87 commits       ████░░░░░░░░░░░░░░░░░░░░░   19.38 % 
 Tuesday         56 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Wednesday       69 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Wednesday       68 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 Thursday        83 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.49 % 
 Friday          57 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 Saturday        47 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
@@ -65,10 +75,10 @@ Sunday          51 commits       ██░░░░░░░░░░░░░�
 ```text
 ⌚︎ Time Zone: Asia/Makassar
 
-💬 Programming Languages: 
+🔥 Editors: 
 No Activity Tracked This Week
 
-🔥 Editors: 
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -88,8 +98,12 @@ EJS                      2 repos             ██░░░░░░░░░�
 ```
 
 
+**Timeline**
 
- Last Updated on 20/02/2023 13:41:39 UTC
+![Chart not found](https://raw.githubusercontent.com/fhasnur/fhasnur/main/charts/bar_graph.png) 
+
+
+ Last Updated on 20/02/2023 14:22:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- ### Reach Me on
