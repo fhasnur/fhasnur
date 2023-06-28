@@ -22,15 +22,15 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 10 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/06/2023 22:16:03 UTC
+ Last Updated on 28/06/2023 22:16:01 UTC
 <!--END_SECTION:waka-->
