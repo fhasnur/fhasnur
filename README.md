@@ -1,6 +1,6 @@
 ## Hi there 👋 this is funday space 🚀
 
-<img align="left" width="405" alt="🌞" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/general.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+<img align="left" width="404" alt="🌞" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/general.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 <img align="right" width="400" alt="🌞" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/statistics.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
