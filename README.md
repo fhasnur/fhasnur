@@ -1,7 +1,7 @@
 ## Hi there 👋 this is funday space 🚀
 
-<img align="left" max-width="50px" alt="🌞" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/general.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
-<img align="right" max-width="50px" alt="🌞" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/statistics.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+<img align="left" max-width="400" alt="🌞" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/general.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+<img align="right" max-width="400" alt="🌞" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/statistics.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
