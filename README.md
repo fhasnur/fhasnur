@@ -7,9 +7,6 @@
 
 📊 All Time Commit
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
 
 ```txt
 JavaScript       207 hrs         ██████████████████▒░░░░░░   73.63 %
