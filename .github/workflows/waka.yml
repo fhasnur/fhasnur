@@ -19,7 +19,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
