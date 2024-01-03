@@ -1,4 +1,4 @@
-## Hi there 👋 this is funday space 🚀
+## Hi there, funday space here 🚀
 
 <img align="left" width="400" alt="🌞" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/general.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 <img align="right" width="380" alt="🌞" src="https://raw.githubusercontent.com/fhasnur/fhasnur/master/statistics.svg?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
