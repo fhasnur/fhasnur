@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.90mb of code in 1637 edited files across 758 commits</small>
+                <small>estimation from 2.91mb of code in 1643 edited files across 762 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.04467377968285" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="204.04467377968285" y="0" width="170.8443600615012" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="374.889033841184" y="0" width="56.08368665455279" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="430.97272049573684" y="0" width="29.02727950426315" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.28964831239102" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="204.28964831239102" y="0" width="170.86703680982782" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="375.1566851222188" y="0" width="55.90731842310498" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.06400354532377" y="0" width="28.93599645467617" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,8 +37,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>9.04k lines</div>
-                                <div>44.36%</div>
+                                <div>9.10k lines</div>
+                                <div>44.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,7 +50,7 @@
                             </div>
                             <small>
                                 <div>2.28k lines</div>
-                                <div>12.19%</div>
+                                <div>12.15%</div>
                             </small>
                         </div>
                     </section>
@@ -63,8 +63,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>7.27k lines</div>
-                                <div>37.14%</div>
+                                <div>7.29k lines</div>
+                                <div>37.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -76,7 +76,7 @@
                             </div>
                             <small>
                                 <div>1.16k lines</div>
-                                <div>6.31%</div>
+                                <div>6.29%</div>
                             </small>
                         </div>
                     </section>
