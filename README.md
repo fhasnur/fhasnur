@@ -22,15 +22,17 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               52 mins             ████████████████████████░   95.39 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/06/2025 22:19:56 UTC
+ Last Updated on 05/06/2025 22:20:35 UTC
 <!--END_SECTION:waka-->
