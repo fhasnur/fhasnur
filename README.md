@@ -24,23 +24,21 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Python                   23 mins             ████████████████████████░   96.84 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  23 mins             ████████████████████████░   96.84 % 
-Antigravity CLI          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Antigravity CLI          0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (3.16%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
-✍️ 0 lines written by AI, 141 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 16,204 Input Tokens, 185 Output Tokens
 
@@ -51,12 +49,12 @@ Windows                  23 mins             ███████████�
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 5 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 00:33:31 UTC
+ Last Updated on 06/10/2026 02:08:00 UTC
 <!--END_SECTION:waka-->
