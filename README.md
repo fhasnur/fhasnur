@@ -24,40 +24,41 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Other                    4 mins              ██████████████░░░░░░░░░░░   57.57 % 
-Go                       3 mins              ███████████░░░░░░░░░░░░░░   42.43 % 
+Other                    4 mins              ███████████░░░░░░░░░░░░░░   45.87 % 
+Go                       3 mins              ████████░░░░░░░░░░░░░░░░░   33.81 % 
+JSON                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 
 🔥 Editors: 
-Antigravity CLI          4 mins              ██████████████░░░░░░░░░░░   57.57 % 
-VS Code                  3 mins              ███████████░░░░░░░░░░░░░░   42.43 % 
+Antigravity CLI          7 mins              █████████████████░░░░░░░░   66.19 % 
+VS Code                  3 mins              ████████░░░░░░░░░░░░░░░░░   33.81 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (100.0%)
+⏱ AI Coding Time: 10 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 90,029 Input Tokens, 3,210 Output Tokens
+🔤 104,380 Input Tokens, 5,047 Output Tokens
 
-💵 $0.38 Estimated AI Cost This Week
+💵 $0.48 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 48 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 50 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 00:58:03 UTC
+ Last Updated on 15/10/2026 00:21:27 UTC
 <!--END_SECTION:waka-->
